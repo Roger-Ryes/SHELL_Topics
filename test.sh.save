@@ -1,0 +1,8 @@
+#! bin/sh
+VALUE="Something" 
+echo "Insert any value" 
+read NAME 
+echo "$NAME\n"
+
+#OUTPUecho "$1"
+echo "$0"
